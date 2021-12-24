@@ -1,6 +1,8 @@
 <!-- Table for Japanese Vocab -->
+
 # Japanese Vocab Chukyuu I
-* Lesson 1
+
+- Lesson 1
 
 | No  |      Japanese      |                                            English                                            |             Indonesian              |
 | :-: | :----------------: | :-------------------------------------------------------------------------------------------: | :---------------------------------: |
@@ -26,8 +28,8 @@
 | 20  |      どんなに      |                                    however, no matter how                                     |            bagaimana pun            |
 | 21  |     立派「な」     |                                       wonderful, grand                                        |                hebat                |
 | 22  |        欠点        |                                     failing, shortcoming                                      |              kegagalan              |
-| 23  |       〜過ぎ       |                                       Past, after, gone                                       |                                     |
-| 24  |       似合う       |                                      suit, look good in                                       |                                     |
+| 23  |       〜過ぎ       |                                       Past, after, gone                                       |          lebih, berlebihan          |
+| 24  |       似合う       |                                      suit, look good in                                       |                cocok                |
 | 25  |     使い分ける     |                                        use selectively                                        |                                     |
 | 26  |        良さ        |                                      merit, good quality                                      |                                     |
 | 27  |      読み取る      |                             understand by reading or scrutinizing                             |                                     |
@@ -57,5 +59,5 @@
 | 51  |     清潔「な」     |                                             clean                                             |                                     |
 | 52  |        本文        |                                           main text                                           |                                     |
 | 53  |      一戸建て      |                                        detached house                                         |                                     |
-| 54  |       小学生       |                                    primary school student                                     |                                     |
-| 55  |      日常生活      |                                          daily life                                           |                                     |
+| 54  |       小学生       |                                    primary school student                                     |         anak sekolah dasar          |
+| 55  |      日常生活      |                                          daily life                                           |        kehidupan sehari-hari        |
