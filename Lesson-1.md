@@ -33,8 +33,8 @@
 | 25  |     使い分ける     |                                        use selectively                                        |                                     |
 | 26  |        良さ        |                                      merit, good quality                                      |                                     |
 | 27  |      読み取る      |                             understand by reading or scrutinizing                             |                                     |
-| 28  |       旅行者       |                                       tourist traveller                                       |                                     |
-| 29  |        〜者        |                                           (person)                                            |                                     |
+| 28  |       旅行者       |                                       tourist traveller                                       |              wisatawan              |
+| 29  |        〜者        |                                           (person)                                            |                orang                |
 | 30  |        最も        |                                             most                                              |                                     |
 | 31  |       非常に       |                                        very, extremely                                        |                                     |
 | 32  |      それほど      |                                        to that extent                                         |                                     |
